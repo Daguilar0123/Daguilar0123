@@ -1,8 +1,4 @@
-<img
-  src="assets/social/daniel-aguilar-github-social-card.jpg"
-  alt="Daniel Aguilar: Grown From Concrete"
-  width="100%"
->
+<img src="assets/social/daniel-aguilar-github-social-card.jpg" alt="Daniel Aguilar: Grown From Concrete" width="100%">
 
 # Daniel Ismael Aguilar
 
