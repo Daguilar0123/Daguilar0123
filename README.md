@@ -11,7 +11,6 @@ The thread through my work is simple: name the source, state the limits, and lea
 | Project | What it does |
 |---|---|
 | [AI Writing Skill Field Guide](https://github.com/Daguilar0123/ai-writing-skill-field-guide) | Measures the maintenance of 68 open-source AI-writing skills, publishes the data and method, and reports the negative results alongside the successful ones. |
-| [Outside Money in the 2026 Maine U.S. Senate Race](https://github.com/Daguilar0123/graham-platner-campaign-finance) | Tracks FEC-reported independent expenditures in a source-linked ledger that is kept separate from editorial conclusions. |
 | [email-agent](https://github.com/Daguilar0123/email-agent) | Teaches the agent loop through a deliberately small email-triage example, with the shortcuts and safety boundaries called out in the code. |
 | [YouTube Transcribe Rebuild](https://github.com/Daguilar0123/youtube-transcribe-rebuild) | A macOS-first Tauri app that uses `yt-dlp`, `ffmpeg`, and `whisper.cpp` to turn YouTube videos or local media into local TXT and SRT transcripts. |
 | [Receipts Not Vibes](https://github.com/Daguilar0123/receiptsnotvibes-landing) | A dependency-free landing page that turns measured findings into a literal receipt and keeps the failed experiment visible. |
